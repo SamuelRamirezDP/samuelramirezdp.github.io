@@ -4,9 +4,9 @@
 ## Objective
 Providing efficient and innovative solutions to technology challenges and willing to grow everyday.
 Education
-*	B.S. Computer Engineering at University of Central Florida (UCF), GPA:3.48, Florida (08/2021)
-*	Vocational High School in Electronics at ITESA, Dominican Republic (06/2015)
-*	Surface Mount Device (SMD) soldering at Xolutronic S.R.L, Dominican Republic (07/2014)
+*	B.S. Computer Engineering at University of Central Florida (UCF), GPA:3.48, Florida (`08/2021`)
+*	Vocational High School in Electronics at ITESA, Dominican Republic (`06/2015`)
+*	Surface Mount Device (SMD) soldering at Xolutronic S.R.L, Dominican Republic (`07/2014`)
 
 ## Skills
 *	Programming Languages: Python, C, C++,C#, Java, MIPS assembly, Verilog, VHDL, VBScript
@@ -16,15 +16,15 @@ Education
 *	Circuit design, PCB manufacturing, through hole and surface mount soldering.
 
 ## Experience
-*   Software Engineer at Lockheed Martin(02/2023-Current)
-*	Software Developer at CTG(08/2021-02/2023)
+*   Software Engineer at Lockheed Martin(`02/2023-Current`)
+*	Software Developer at CTG(`08/2021-02/2023`)
 
     * Writing and deploying Docker Images into Kubernetes clusters and managing those resources.
 	Developing a Bootstrapper application for automated setup and testing of new software versions in C# using Azure VM deployments.
     *	Automating processes using powershell, VBScript, python and C#
     *	ETL tasks using python
     *	Spreadsheet file  processing with python and VBScript
-    *	Premium Support Solutions at Asurion (07/2018 – 6/2021)
+*	Premium Support Solutions at Asurion (07/2018 – 6/2021)
     *	Troubleshooting android and apple devices
     *	Software management for android and apple devices
     *	Support for networking devices and systems
